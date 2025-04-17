@@ -34,7 +34,7 @@ const createCloseButton = () => {
   button.style.justifyContent = "center";
   button.style.alignItems = "center";
   button.style.borderRadius = "100%";
-  button.innerHTML = "&#128473"; // code for 🗙 sign
+  button.innerHTML = "X";
   button.style.color = "white";
   button.style.cursor = "pointer";
   button.style.marginBottom = "2px";
